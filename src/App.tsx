@@ -5,9 +5,10 @@ import Hero from "./components/Hero/Hero";
 function App() {
   return (
     <>
-      <Greeting/>
-      <Greeting/>
-      <Hero/>
+      <h1>Hello React</h1>
+      <Greeting />
+      <Greeting />
+      <Hero />
     </>
   );
 }
@@ -16,4 +17,3 @@ export default App;
 
 // Hero - внутри section
 // By our unique product!
-
